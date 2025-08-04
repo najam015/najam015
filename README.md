@@ -18,7 +18,7 @@
 
 <div dir="auto">
 <p dir="auto"><i>&nbsp; Building solutions with open source.</i> <br><br></p>
-<p dir="auto">👋 Hi! I'm Najam Ahmed , a full-stack developer from Pakistan, super into Open Source, and working as a Technical writer for international brands.</p>
+<p dir="auto">👋 Hi! I'm Najam Ahmed , a full-stack developer from Pakistan, super into Open Source, and working as a Software Engenier at <a href="https://infinitidev.com/">InfinitiDev</a></p>
 <p dir="auto">🔥 I have worked with more than 8 international teams like <a href="https://github.com/dreamslab-us">dreamslab</a>, <a href="https://autopartify.com/">autopartify</a>, <a href="https://github.com/winglang/wing">Wing</a>, <a href="https://github.com/latitude-dev/latitude">Latitude</a>, reaching an audience of over <em>350k</em>. If you need a technical writer, DM me on Twitter or LinkedIn.</p>
 <p dir="auto">📈 &nbsp; I'm also building my community for open source developers and technical writers at <a href="https://discord.gg/49PBDrtr" rel="nofollow">dub.sh/penduDev</a>.</p>
 <p dir="auto">🔖 &nbsp; As a top author on <a href="https://dev.to/" rel="nofollow">dev.to/</a>, my content has been featured in prestigious communities like GitHub, resulting in a follower base of over <em>30k+</em> within 6 months.</p>

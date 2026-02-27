@@ -26,7 +26,7 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😄"
 - 🔭 Currently working on **something awesome** (stay tuned!)
 - 🌱 Deep-diving into **Rust & Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Node.js, Python, or system design**
+- 💬 Ask me about **Ruby on Rails, Hotwired Turbo, Javascript, or system design**
 - ⚡ Fun fact: I once fixed a bug by **deleting** code — less is more!
 
 <br clear="right"/>
@@ -62,14 +62,9 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😄"
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[najam015]&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=[najam015]&theme=radical&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[najam015]&layout=compact&theme=radical&hide_border=true" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=[najam015]&theme=radical&no-frame=true&row=2&column=4" width="50%" />
-</p>
 
 ---
 

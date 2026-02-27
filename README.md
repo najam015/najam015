@@ -16,7 +16,7 @@ name:        "Najam Ahmad"
 location:    "Pakistan 🇵🇰"
 role:        "Full-Stack Developer"
 currently:   "Building cool open-source tools"
-learning:    ["Web3", "System Design", "Flutter"]
+learning:    ["System Design", "Flutter"]
 hobbies:     ["Coding", "Gaming 🎮", "Coffee ☕", "Open Source"]
 fun_fact:    "I debug with console.log and I'm not ashamed 😄"
 ```

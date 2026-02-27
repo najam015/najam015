@@ -24,7 +24,6 @@ fun_fact:    "I debug with console.log and I'm not ashamed 😄"
 <img align="right" alt="Coding GIF" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 - 🔭 Currently working on **something awesome** (stay tuned!)
-- 🌱 Deep-diving into **Rust & Cloud Architecture**
 - 👯 Looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Ruby on Rails, Hotwired Turbo, Javascript, or system design**
 - ⚡ Fun fact: I once fixed a bug by **deleting** code — less is more!
